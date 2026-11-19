@@ -1,5 +1,11 @@
 # ZeraPS5
 
+**[Download the latest Windows build](https://github.com/zeraps5/ZeraPS5-Releases/releases/latest)** · **[All releases and builds](https://github.com/zeraps5/ZeraPS5-Releases/releases)**
+
+[![Windows ZIP downloads for the latest release](https://raw.githubusercontent.com/zeraps5/ZeraPS5-Releases/main/docs/downloads.svg)](https://github.com/zeraps5/ZeraPS5-Releases/releases/latest)
+
+Windows packages and automatic launcher updates are served from `zeraps5/ZeraPS5-Releases`.
+
 Experimental PlayStation 5 emulation for Windows x64, maintained by **metallrockdev**.
 
 ## Version 0.1.1 build 984
